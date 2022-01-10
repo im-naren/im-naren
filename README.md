@@ -25,10 +25,3 @@ relocation_interests: ["Somewhere in Mountain with Internet"]
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/code.gif?raw=true" width="1000" height="500" />
 
-Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=im-naren&show_icons=true&theme=gotham" alt="im-naren" />
