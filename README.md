@@ -10,18 +10,7 @@
 
 ```yml
 name: Narendra Dubey
-
-located_in: Bangalore, India
-
 from: Utter Pradesh (India)
-
-education: [ "Bachelor's in Computer Science"]
-
-technical_interests: ["programing", "backend", "data engineering"]
-
-hobbies: ["Chess", "Anything Dumb and meaningless"]
-
-relocation_interests: ["Somewhere in Mountain with Internet"]
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/code.gif?raw=true" width="1000" height="500" />
 
