@@ -1,6 +1,3 @@
-<!-- [![Actions Status](https://github.com/im-naren/im-naren/workflows/wakatime-stats/badge.svg)](https://github.com/im-naren/im-naren/actions) -->
-<!-- [![Actions Status](https://github.com/im-naren/im-naren/workflows/update-gh-activity/badge.svg)](https://github.com/im-naren/im-naren/actions) -->
-![](https://visitor-badge.glitch.me/badge?page_id=im-naren.im-naren)
 <p align="left">
 <br/>
 <a href="https://www.linkedin.com/in/im-naren/">
