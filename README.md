@@ -12,5 +12,5 @@
 name: Narendra Dubey
 from: Utter Pradesh (India)
 ```
-<img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/code.gif?raw=true" width="1000" height="500" />
+<img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/desk.jpeg?raw=true" width="1010" height="250" />
 
