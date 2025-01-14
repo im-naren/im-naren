@@ -11,5 +11,5 @@ from: Utter Pradesh (India)
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/desk.jpeg?raw=true" width="1010" height="250" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=aim-nare&show_icons=true&theme=tokyonight&text_color=FFFFF0)
+![github stats](https://github-readme-stats.vercel.app/api?username=im-naren&show_icons=true&theme=tokyonight&text_color=FFFFF0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-naren&layout=compact&theme=tokyonight&text_color=FFFFF0)
