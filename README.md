@@ -1,19 +1,15 @@
 <p align="left">
 <br/>
-<a href="https://www.linkedin.com/in/im-naren/">
-  <img alt="Naren's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.github.com/im-naren/">
-  <img alt="Naren's LinkdeIN" width="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
-</a>
-
-    
+  <a href="https://www.linkedin.com/in/im-naren/"><img alt="Naren's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" /></a>
+  &nbsp;<a href="https://www.github.com/im-naren/"><img alt="Naren's LinkdeIN" width="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" /></a>
+  &nbsp;<a href="https://medium.com/@im_naren"><img alt="Naren's Blog" width="50px" src="https://github.com/im-naren/im-naren/blob/main/Medium-Icon-Black.png" /></a>
 </p>
+<!-- <p align='left'>
+  <a href="https://www.linkedin.com/in/im-naren/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;<a href="https://www.github.com/im-naren/"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  &nbsp;<a href="https://medium.com/@im_naren"><img alt="Blog" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+</p> -->
 
-
-![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/im-naren/)
-![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 
 ```yml
 name: Narendra Dubey
