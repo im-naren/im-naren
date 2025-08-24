@@ -4,6 +4,7 @@
   &nbsp;<a href="https://www.github.com/im-naren/"><img alt="Naren's LinkdeIN" width="50px" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" /></a>
   &nbsp;<a href="https://medium.com/@im_naren"><img alt="Naren's Blog" width="50px" src="https://github.com/im-naren/im-naren/blob/main/Medium-Icon-Black.png" /></a>
 </p>
+
 <!-- <p align='left'>
   <a href="https://www.linkedin.com/in/im-naren/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;<a href="https://www.github.com/im-naren/"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
@@ -12,8 +13,9 @@
 
 
 ```yml
-name: Narendra Dubey
-from: Utter Pradesh (India)
+intro:
+  name: Narendra Dubey
+  from: Utter Pradesh (India)
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/desk.jpeg?raw=true" width="1010" height="250" />
 
