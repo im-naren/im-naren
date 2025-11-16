@@ -16,6 +16,10 @@
 intro:
   name: Narendra Dubey
   from: Utter Pradesh (India)
+  linkedin: https://www.linkedin.com/in/im-naren
+  blog:
+  - https://www.devbyte.in
+  - https://medium.com/@im_naren
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/desk.jpeg?raw=true" width="1010" height="250" />
 <!--
