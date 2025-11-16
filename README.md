@@ -18,7 +18,7 @@ intro:
   from: Utter Pradesh (India)
 ```
 <img align="center" alt="GIF" src="https://github.com/im-naren/im-naren/blob/main/desk.jpeg?raw=true" width="1010" height="250" />
-
+<!--
 ### TechStack
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-00ADD8?&style=flat&logo=go&logoColor=white)
